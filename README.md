@@ -1,5 +1,5 @@
 # Spend Profile and Analysis
-Analysis of company's spend on printing to identify banned and departments of higher printing spend and finding opportunities on how to reduce the spend on printing.
+Analysis of Grocery Firm's spend on printing to identify banners and departments of higher printing spend and finding opportunities on how to reduce the spend on printing.
 
 Below is a glance of the dashboard which helps analysing printing spend and oppportunities to save cost.
 
